@@ -1,0 +1,24 @@
+{
+  "name": "ytlink",
+  "version": "0.0.0",
+  "description": "Get youtube download links by url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaelsouza/ytlink.git"
+  },
+  "keywords": [
+    "youtube",
+    "download",
+    "link"
+  ],
+  "author": "micaelsouza <micael.souza@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micaelsouza/ytlink/issues"
+  },
+  "homepage": "https://github.com/micaelsouza/ytlink#readme"
+}
