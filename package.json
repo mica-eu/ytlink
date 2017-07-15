@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/micaelsouza/ytlink/issues"
   },
-  "homepage": "https://github.com/micaelsouza/ytlink#readme"
+  "homepage": "https://github.com/micaelsouza/ytlink#readme",
+  "dependencies": {
+    "jsdom": "^11.1.0"
+  }
 }
