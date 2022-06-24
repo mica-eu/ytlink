@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/micaelsouza/ytlink#readme",
   "dependencies": {
-    "jsdom": "^11.1.0"
+    "jsdom": "^16.5.0"
   }
 }
